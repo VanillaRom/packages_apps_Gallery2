@@ -44,11 +44,11 @@
 
     <!-- FAB -->
     <color name="fab">@color/accent</color>
-    <color name="floating_action_button_touch_tint">#F44336</color>
+    <color name="floating_action_button_touch_tint">#F6E337</color>
     <color name="floating_action_button_icon_color">#ffffff</color>
 
-    <color name="primary">#0cac9b</color>
-    <color name="primary_dark">#0b9788</color>
-    <color name="accent">#0ec2b0</color>
+    <color name="primary">#f3e5ab</color>
+    <color name="primary_dark">#d0bb05</color>
+    <color name="accent">#f5e345</color>
     <color name="textColor">#ffffff</color>
 </resources>

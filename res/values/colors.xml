@@ -16,9 +16,9 @@
 <resources>
     <color name="holo_gray_light">#33999999</color>
     <color name="default_background">#000</color>
-    <color name="primary">#0cac9b</color>
-    <color name="primary_dark">#0b9788</color>
-    <color name="accent">#0ec2b0</color>
+    <color name="primary">#F3E5AB</color>
+    <color name="primary_dark">#D6DC17</color>
+    <color name="accent">#F4FC1C</color>
     <color name="textColor">#ffffff</color>
 
     <!-- configuration for album set page -->
